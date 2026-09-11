@@ -1,6 +1,6 @@
 cask "hotkey-detective" do
-  version "1.0.8"
-  sha256 "690de80fbabffbd1709849db4581e88d2f085fd8894cadc7e6e83829ef935c91"
+  version "1.0.9"
+  sha256 "47657788c4459510db3e9c31bb23009d9cad1f123bae4437ea6048f08611ba7c"
 
   url "https://github.com/goodbug89/hotkey-detective/releases/download/v#{version}/HotkeyDetective-#{version}.dmg"
   name "HotkeyDetective"
